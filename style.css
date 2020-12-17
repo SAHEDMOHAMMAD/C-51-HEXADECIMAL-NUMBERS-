@@ -1,0 +1,39 @@
+
+h1{
+    color: rgba(253, 253, 253, 0.527);
+}
+h2{
+    color: rgba(13, 167, 7, 0.527);
+}
+h1{
+    color: rgba(13, 167, 7, 0.527);
+}
+p{
+    color: rgba(13, 167, 7, 0.527);
+}
+*{
+    border:solid;
+}
+body{
+    background-image:url("Icons/mango.jpg");
+}
+.header  {
+    color: #fdfdfd;
+    background-image: none;
+    background-color: #808080;
+    display:flex;
+    justify-content:space-between ;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+.description{
+    text-align: center;
+}
